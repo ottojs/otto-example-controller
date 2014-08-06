@@ -2,6 +2,7 @@
   "name" : "otto-example-controller",
   "version" : "0.0.0",
   "repository" : "https://github.com/ottojs/otto-example-controller.git",
+  "main" : "./lib/index.js",
   "dependencies" : {},
   "devDependencies" : {
     "jshint"    : "2.5.2",
